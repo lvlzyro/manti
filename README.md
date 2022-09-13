@@ -1,2 +1,2 @@
 # manti
-manti: a lightweight package manager for windows
+manti: a lightweight package manager for Windows
