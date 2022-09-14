@@ -16,5 +16,7 @@ func main() {
 		fmt.Println("you'll need .deb or .rpm")
 	case "darwin":
 		fmt.Println("you'll need .app")
+	default:
+		fmt.Println("couldn't recognize your os")
 	}
 }
